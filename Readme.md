@@ -37,11 +37,9 @@ Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgaben f
 
 ### Chessboard
 
-
 Erstellen Sie mittels der `GraphicsApp` ein Schachbrett. Dieses besteht aus 8*8 Feldern, die abwechselnd schwarz und weiß gefärbt sind.
 Verwenden Sie ein Zweidimensionales Array (Array aus Arrays) um das Brett zu erzeugen.
-Für Werte wie die Größe der Felder sind bereits geeignete Konstanten definiert. 
-
+Für Werte wie die Größe der Felder sind bereits geeignete Konstanten definiert.   
 ![Chessboard](docs/chessboard.PNG)
 
 #### Optional
