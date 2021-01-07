@@ -2,7 +2,7 @@ package AnimalRace;
 
 public class AnimalRace {
 
-    private static final int TRACK_LENGTH = 400;
+    private static final float TRACK_LENGTH = 400;
     
     // Hase, Konstanten
     private static final String FURCOLOR = "WHITE";
