@@ -1,6 +1,6 @@
 ---
 title: Zusatzuebung Datenstrukturen
-author: Zuletzt bearbeitet von Lukas Schauhuber
+author: Erstellt von Lukas Schauhuber, Daniel Kwoska
 documentclass: scrartcl
 classoption:
   - a4paper
