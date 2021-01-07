@@ -12,6 +12,7 @@ public class AnimalRace {
 
     // Landschildkröte, Konstanten
     private static final int TORTOISE_SIZE = 15;
+    private static final int TORTOISE_DIAMETER = 10;
     private static final float TORTOISE_SPEED = 1;
 
     private static void initialize() {
