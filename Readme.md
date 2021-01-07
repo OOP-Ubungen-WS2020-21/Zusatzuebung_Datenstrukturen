@@ -33,7 +33,7 @@ header-includes: |
 ## Starterpaket
 
 Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgaben finden Sie hier:
- - [Starterpaket](https://github.com/OOP-Ubungen-WS2020-21/Zusatzuebung_Datenstrukturen/archive/Starterpaket.zip)
+ - [\textbf{Starterpaket}](https://github.com/OOP-Ubungen-WS2020-21/Zusatzuebung_Datenstrukturen/archive/Starterpaket.zip)
 
 ### Chessboard
 
